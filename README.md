@@ -3,4 +3,4 @@ Banking Software project developed using Visual basic 6.0 and Microsoft Access D
 <br>
 
 More information about this project: 
-https://www.studentprojectguide.com/visual-basic-6-0/banking-system-project/
+https://www.studentprojects.live/studentprojectreport/projectreport/how-to-run-online-banking-script/
